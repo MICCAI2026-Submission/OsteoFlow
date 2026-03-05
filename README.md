@@ -14,12 +14,12 @@ This repository contains the reference implementation for **OsteoFlow**, a two-s
 The figures below correspond to the **Methods** and **Results** sections of the accompanying paper.
 
 ### Figure 1 (Methods)
-![Figure 1](assets/figure1.png)
+![Figure 1](assets/method.png)
 
 Preprocessing and the teacher–student distillation framework used to guide the student velocity field.
 
 ### Figure 2 (Results)
-![Figure 2](assets/figure2.png)
+![Figure 2](assets/results.png)
 
 Model predictions for three representative cases (union, partial union, and nonunion) visualized on the resection plane and two orthogonal central slices.
 
@@ -61,10 +61,9 @@ OsteoFlow/
 │   └── OsteoFlow_Student_V0.py
 │
 ├── assets/
-│   ├── figure1.png
-│   └── figure2.png
+│   ├── method.png
+│   └── results.png
 │
-└── Results/
 ```
 
 ## Reproducibility notes
