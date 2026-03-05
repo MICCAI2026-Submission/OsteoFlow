@@ -47,7 +47,7 @@ python Code/OsteoFlow_Student_Final.py
 The scripts derive BASE_DIR automatically from the repository root and expect the following structure:
 
 - Code/ – main scripts for the teacher and student models
-- assets/ – paper figures (figure1.png, figure2.png)
+- assets/ – paper figures (method.png, results.png)
 - output_rois_augmented_v4/ – augmented ROI inputs (internal dataset)
 - Results/ – checkpoints and model outputs referenced by the scripts
 
